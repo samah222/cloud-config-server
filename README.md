@@ -1,2 +1,2 @@
 # cloud-config-server
-Central config server for bank microservices..
+Central config server for bank microservices...
